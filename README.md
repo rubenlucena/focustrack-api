@@ -1,2 +1,2 @@
 # focustrack-api
-API for FocusTrack project
+API for FocusTrack project.
